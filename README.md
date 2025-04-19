@@ -180,8 +180,9 @@ Shen-Han Chiu - [spc6178@psu.edu]
 Applied Data Science | College of Information Sciences and Technology
 The Pennsylvania State University
 E301 Westgate Building, University Park, PA 16802
-814-280-7039 (office) | spc6178@psu.edu
+814-280-7039 (office)
 
-Project Link: [https://github.com/DrGroove96/DS440_Captsone_Project](https://psuweatherio.netlify.app/)
+Project Link: [https://github.com/DrGroove96/DS440_Captsone_Project]
+Website Link: [https://psuweatherio.netlify.app/]
 
-Contact Shen-Han Chiu at spc6178@psu.edu for further support. 
+Please contact Shen-Han Chiu at spc6178@psu.edu for further assitance. 
