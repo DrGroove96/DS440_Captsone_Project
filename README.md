@@ -1,6 +1,6 @@
 # Weather.io Website
 
-A modern, interactive weather dashboard that provides real-time weather information, user temperature reporting, and advanced weather data visualization. This application combines real-time weather data with user-reported temperatures to create a comprehensive weather monitoring system.
+Weather.io is an interactive weather dashboard that provides real-time weather information, user temperature reporting, and advanced weather data visualization utilizing Openweather and OpenAI API key. This website application combines real-time weather data with user-reported temperatures to create a meaningful and analytical weather reporting system.
 
 ## Features
 
