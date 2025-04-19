@@ -183,6 +183,7 @@ E301 Westgate Building, University Park, PA 16802
 814-280-7039 (office)
 
 Project Link: [https://github.com/DrGroove96/DS440_Captsone_Project]
+
 Website Link: [https://psuweatherio.netlify.app/]
 
-Please contact Shen-Han Chiu at spc6178@psu.edu for further assitance. 
+Please contact Shen-Han Chiu at spc6178@psu.edu for further support. 
