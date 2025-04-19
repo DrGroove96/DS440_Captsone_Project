@@ -1,4 +1,4 @@
-# Weather.io Dashboard Application
+# Weather.io Website
 
 A modern, interactive weather dashboard that provides real-time weather information, user temperature reporting, and advanced weather data visualization. This application combines real-time weather data with user-reported temperatures to create a comprehensive weather monitoring system.
 
