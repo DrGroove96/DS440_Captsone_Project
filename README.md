@@ -32,7 +32,7 @@ Weather.io is an interactive weather dashboard that provides real-time weather i
 
 ## Live Demo
 
-[https://psu.mediaspace.kaltura.com/media/Shen-Han+Chius+Zoom+Meeting/1_wo09g87y]
+[https://psu.mediaspace.kaltura.com/media/Shen-Han+Chius+Zoom+Meeting/1_reft2m7q]
 
 ## Prerequisites
 
@@ -182,7 +182,7 @@ The Pennsylvania State University
 E301 Westgate Building, University Park, PA 16802
 814-280-7039 (office)
 
-Project Link: [https://github.com/DrGroove96/DS440_Captsone_Project]
+Project Link: [https://github.com/DrGroove96/DS440_Captsone_Project.git]
 
 Website Link: [https://psuweatherio.netlify.app/]
 
